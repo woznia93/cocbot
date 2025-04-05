@@ -1,12 +1,12 @@
 # cocbot
 
-## 🤖 ML-Based Clash of Clans Bot
+## ML-Based Clash of Clans Bot
 
 A Python-powered automation and machine learning project designed to interact with **Clash of Clans**. The bot captures screen data, detects game elements using YOLOv5, decides what action to take, and automates gameplay using tools like `pyautogui`.
 
 ---
 
-## 📂 Features
+## Features
 - Screen capturing using `mss`
 - Object detection using YOLOv5 (gold mines, elixir collectors, etc.)
 - Smart action decision logic (collect, train, deploy)
@@ -15,7 +15,7 @@ A Python-powered automation and machine learning project designed to interact wi
 
 ---
 
-## 🧠 How it Works
+## How it Works
 1. Captures emulator screen
 2. Detects objects with YOLOv5
 3. Decides actions with simple logic (can be replaced with ML policies)
@@ -23,7 +23,7 @@ A Python-powered automation and machine learning project designed to interact wi
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Install Requirements
 ```bash
@@ -68,18 +68,18 @@ python main.py
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 - Reinforcement learning with Stable-Baselines3
 - Smarter troop deployment logic
 - Real-time base layout adaptation
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 This project is for **educational purposes only**. Do not use it on your main Clash of Clans account. Automation may violate the game’s terms of service and lead to account bans.
 
 ---
 
-## 📸 Preview
+## Preview
 _(Add GIF or screenshot of bot in action here)_
 
