@@ -81,5 +81,5 @@ This project is for **educational purposes only**. Do not use it on your main Cl
 ---
 
 ## Preview
-_(Add GIF or screenshot of bot in action here)_
+__
 
